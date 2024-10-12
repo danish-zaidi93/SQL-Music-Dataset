@@ -1,2 +1,3 @@
-# SQL-Music-Dataset
+# Digital Music Store Analysis
 SQL Project
+
